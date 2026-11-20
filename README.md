@@ -17,14 +17,18 @@ El **CCIC** diseña, implementa y mantiene sus propias herramientas computaciona
 
 ## Líneas de Investigación y Desarrollo
 
+* **Matemáticas Puras y Verificación Formal:** Formalización rigurosa de teoremas clásicos y modernos, álgebra abstracta, matemáticas de la IA, análisis y especificación verificada de sistemas concurrentes y protocolos críticos mediante **Lean 4** y **TLA+**.
+* **Física Matemática:** Modelado Matemático. Métodos de Diferencias Finitas y de Galerkin. Cálculo Simbólico masivo **FORM**, **SymPy**
+* **Física Computacional, Criptografía y Datos:** Simulación Monte Carlo **FORTRAN/C/C++/ROOT/Python**, Estudio de Suelos, Fluidos, Atmósfera, Materiales, etc, **GEANT4** 
+* **Vehículos Autonomos, Criptografía y Datos:**
+modelado estocástico, métodos criptográficos y persistencia estructurada de datos experimentales mediante **MySQL**, **SQLite** y almacenamiento columnar de alto volumen.
+* **Ciberfísica Médica:** Modelado de sistemas biomédicos instrumentados, análisis estructural de señales y datos clínicos experimentales, arquitecturas de telemedicina y procesamiento de alto rendimiento para diagnóstico asistido.
 * **Inteligencia Artificial, LLM Nativos y Agentes:** Diseño e implementación en **C/C++** de arquitecturas Transformer generativas, tokenizadores y motores de inferencia sobre el ecosistema **CERN ROOT** (`RNTuple`, `VDT`, `Clad`), junto con sistemas multiagente y arquitecturas orientadas a la **Generative Super Intelligence**.
-* **Entrenamiento y Evaluación Rigurosa de Modelos:** Entrenamiento de modelos de lenguaje desde cero o mediante ajuste fino especializado, y auditoría de modelos LLM existentes bajo métricas estrictas de razonamiento lógico, precisión matemática, consistencia formal y eficiencia computacional.
-* **Visión por Computadora (*Computer Vision*):** Diseño, optimización e implementación de algoritmos de percepción espacial, detección en tiempo real, inspección industrial y procesamiento visual de alto rendimiento.
+* **Entrenamiento y Evaluación Rigurosa de Modelos:** Entrenamiento de modelos de provenientes de distintos lenguajes de programación mediante ajuste fino especializado, y auditoría de modelos LLM existentes bajo métricas estrictas de razonamiento lógico, precisión matemática, consistencia formal y eficiencia computacional Ad-Hoc.
+* **Sensores y Visión por Computadora (*Computer Vision*):** Diseño, optimización e implementación de algoritmos de captación de señales, percepción espacial, detección en tiempo real, inspección industrial y procesamiento visual de alto rendimiento.
 * **Robótica, Automatización y Transporte por Ductos:** Modelado físico-matemático, control autónomo, telemetría ciberfísica, dinámica de fluidos computacional y automatización de sistemas robóticos e infraestructura de transporte por tuberías (*Transportation via Pipelines*).
 * **Ecosistema Python y Puente Simbólico:** Uso de **Python** en educación científica e investigación mediante **NumPy**, **SciPy**, **Pandas**, **Matplotlib** y **TensorFlow**, empleando **SymPy** como enlace entre el álgebra simbólica, la simulación física y las demostraciones formales.
-* **Matemáticas Puras y Verificación Formal:** Formalización rigurosa de teoremas clásicos y modernos, álgebra abstracta, análisis y especificación verificada de sistemas concurrentes y protocolos críticos mediante **Lean 4** y **TLA+**.
-* **Física Computacional, Criptografía y Datos:** Simulación Monte Carlo, cálculo simbólico masivo, modelado estocástico, métodos criptográficos y persistencia estructurada de datos experimentales mediante **MySQL**, **SQLite** y almacenamiento columnar de alto volumen.
-* **Ciberfísica Médica:** Modelado de sistemas biomédicos instrumentados, análisis estructural de señales y datos clínicos experimentales, arquitecturas de telemedicina y procesamiento de alto rendimiento para diagnóstico asistido.
+* **Teoría Musical para Ciencia e Ingeniería** El uso de la música para el análisis de datos.
 
 ---
 
@@ -59,3 +63,4 @@ Si deseas respaldar la investigación independiente y el desarrollo de herramien
 [![Apoyar vía Nequi](https://img.shields.io/badge/Apoyar_vía-Nequi_%28Colombia%29-200020?style=for-the-badge)](https://clientes.nequi.com.co/recargas)
 
 > *Para consultas de asesoría, auditoría de modelos de IA, colaboraciones institucionales o confirmación de aportes vía Nequi, contáctanos a través del correo oficial publicado en el perfil de la organización.*
+
