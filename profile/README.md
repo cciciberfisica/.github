@@ -64,7 +64,10 @@ Si deseas respaldar la investigación independiente y el desarrollo de herramien
 ```text
 @NEQUIFER0979
 ```
-[![Apoyar vía Nequi](https://img.shields.io/badge/Apoyar_vía-Nequi_%28Colombia%29-25D366?style=for-the-badge)](https://clientes.nequi.com.co/recargas)
+[![Aportar vía Nequi](https://img.shields.io/badge/APORTAR_VÍA-Nequi_Colombia-DA0081?style=for-the-badge)](https://clientes.nequi.com.co/recargas)
+[![Aportar vía Bancolombia](https://img.shields.io/badge/APORTAR_VÍA-Bancolombia-FDDA24?style=for-the-badge&logoColor=black)](https://sucursalpersonas.transaccionesbancolombia.com/)
+[![Aportar vía Davivienda](https://img.shields.io/badge/APORTAR_VÍA-Davivienda-ED1C27?style=for-the-badge)](https://transacciones.davivienda.com/)
+[![Aportar vía Daviplata](https://img.shields.io/badge/APORTAR_VÍA-Daviplata-ED1C27?style=for-the-badge)](https://www.daviplata.com/)
 
 > *Para consultas de asesoría, auditoría de modelos de IA, colaboraciones institucionales o confirmación de aportes vía Nequi, contáctanos a través del correo oficial publicado en el perfil de la organización.*
 >
