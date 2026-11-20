@@ -76,9 +76,9 @@ Si deseas apoyar la investigación abierta y el desarrollo de software científi
 
 **Copiar llave Bre-B / Nequi (1 clic):**
 ```text
-@TULLAVEBREB
+@NEQUIFER0979
 ```
 
-* **Recarga web vía PSE:** [Portal oficial de recargas Nequi](https://recarga.nequi.com.co/bdigitalpsl/)
+* **Recarga web vía PSE:** [Portal oficial de recargas Nequi](https://clientes.nequi.com.co/recargas)
 * **Patrocinio internacional:** *Próximamente (PayPal / GitHub Sponsors)*
 
