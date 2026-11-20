@@ -64,7 +64,7 @@ Si deseas respaldar la investigación independiente y el desarrollo de herramien
 ```text
 @NEQUIFER0979
 ```
-[![Apoyar vía Nequi](https://img.shields.io/badge/Apoyar_vía-Nequi_%28Colombia%29-200020?style=for-the-badge)](https://clientes.nequi.com.co/recargas)
+[![Apoyar vía Nequi](https://img.shields.io/badge/Apoyar_vía-Nequi_%28Colombia%29-25D366?style=for-the-badge)](https://clientes.nequi.com.co/recargas)
 
 > *Para consultas de asesoría, auditoría de modelos de IA, colaboraciones institucionales o confirmación de aportes vía Nequi, contáctanos a través del correo oficial publicado en el perfil de la organización.*
 >
