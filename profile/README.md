@@ -77,7 +77,7 @@ Si deseas respaldar la investigación independiente y el desarrollo de herramien
 Si deseas apoyar la investigación abierta y el desarrollo de software científico soberano en el **CCIC**:
 
 <div align="center">
-  <img src="./QRBreveFer.jpeg" alt="QR Bre-B CCIC" width="210" />
+  <img src="./nequifer.jpg" alt="QR Bre-B CCIC" width="210" />
   <p><sub>Escanea desde <strong>Nequi</strong> o cualquier entidad con <strong>Bre-B</strong></sub></p>
 </div>
 
