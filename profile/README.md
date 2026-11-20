@@ -63,4 +63,22 @@ Si deseas respaldar la investigación independiente y el desarrollo de herramien
 [![Apoyar vía Nequi](https://img.shields.io/badge/Apoyar_vía-Nequi_%28Colombia%29-200020?style=for-the-badge)](https://clientes.nequi.com.co/recargas)
 
 > *Para consultas de asesoría, auditoría de modelos de IA, colaboraciones institucionales o confirmación de aportes vía Nequi, contáctanos a través del correo oficial publicado en el perfil de la organización.*
+>
+> 
+### Apoyo y Patrocinio
+
+Si deseas apoyar la investigación abierta y el desarrollo de software científico soberano en el **CCIC**:
+
+<div align="center">
+  <img src="./qr-nequi.png" alt="QR Nequi / Bre-B CCIC" width="210" />
+  <p><sub>Escanea desde <strong>Nequi</strong> o cualquier entidad con <strong>Bre-B</strong></sub></p>
+</div>
+
+**Copiar llave Bre-B / Nequi (1 clic):**
+```text
+@TULLAVEBREB
+```
+
+* **Recarga web vía PSE:** [Portal oficial de recargas Nequi](https://recarga.nequi.com.co/bdigitalpsl/)
+* **Patrocinio internacional:** *Próximamente (PayPal / GitHub Sponsors)*
 
