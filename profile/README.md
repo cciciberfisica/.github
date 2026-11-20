@@ -5,7 +5,7 @@
 [![Matemáticas Puras](https://img.shields.io/badge/Matemáticas_Puras-Lean_4_%7C_TLA%2B_%7C_SymPy-0284c7?style=flat-square)](https://github.com/cciciberfisica)
 [![Python](https://img.shields.io/badge/Python-Educación_%7C_IA_%7C_Computación_Científica-FACC15?style=flat-square&logo=python&logoColor=black)](https://github.com/cciciberfisica)
 
-Entidad independiente dedicada a la investigación fundamental y aplicada en sistemas ciberfísicos, computación científica de alto rendimiento, matemáticas puras, inteligencia artificial, modelos de lenguaje generativo, visión por computadora, robótica, automatización, ciberfísica médica, transporte por tuberías de última generación (*Transportation via Pipelines*), métodos criptográficos y la exploración teórica y computacional hacia la **Generative Super Intelligence** (clásica y cuántica).
+Entidad independiente dedicada a la investigación fundamental y aplicada en sistemas ciberfísicos, computación científica de alto rendimiento, matemáticas puras, inteligencia artificial, modelos de lenguaje generativo, sensores y visión por computadora, robótica, automatización, ciberfísica médica, transporte por tuberías de última generación (*Transportation via Pipelines*), métodos criptográficos y la exploración teórica y computacional hacia la **Generative Super Intelligence** (clásica y cuántica).
 
 ---
 
