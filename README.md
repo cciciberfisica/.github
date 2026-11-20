@@ -1,11 +1,11 @@
 # Centro Colombiano para la Investigación Ciberfísica (CCIC)
 
 [![Sede](https://img.shields.io/badge/Sede-Santa_Marta%2C_Colombia-003893?style=flat-square)](https://github.com/cciciberfisica)
-[![Arquitectura](https://img.shields.io/badge/Core-C%2B%2B17_%7C_CERN_ROOT_%7C_IA_Generativa-1f2937?style=flat-square)](https://github.com/cciciberfisica)
+[![Arquitectura](https://img.shields.io/badge/Física de Altas Energías-C%2B%2B17_%7C_CERN_ROOT_%7C_IA_Generativa-1f2937?style=flat-square)](https://github.com/cciciberfisica)
 [![Matemáticas Puras](https://img.shields.io/badge/Matemáticas_Puras-Lean_4_%7C_TLA%2B_%7C_SymPy-0284c7?style=flat-square)](https://github.com/cciciberfisica)
 [![Python](https://img.shields.io/badge/Python-Educación_%7C_IA_%7C_Computación_Científica-FACC15?style=flat-square&logo=python&logoColor=black)](https://github.com/cciciberfisica)
 
-Entidad independiente dedicada a la investigación fundamental y aplicada en sistemas ciberfísicos, computación científica de alto rendimiento, matemáticas puras, inteligencia artificial, modelos de lenguaje generativo, visión por computadora, robótica, automatización, transporte por ductos (*Transportation via Pipelines*) y la exploración teórica y computacional hacia la **Generative Super Intelligence**.
+Entidad independiente dedicada a la investigación fundamental y aplicada en sistemas ciberfísicos, computación científica de alto rendimiento, matemáticas puras, inteligencia artificial, modelos de lenguaje generativo, visión por computadora, robótica, automatización, ciberfísica médica, transporte por tuberías de última generación (*Transportation via Pipelines*) y la exploración teórica y computacional hacia la **Generative Super Intelligence** ya sea de origen clásico o cuántico y también de métodos critptográficos.
 
 ---
 
@@ -24,7 +24,7 @@ El **CCIC** diseña, implementa y mantiene sus propias herramientas computaciona
 * **Ecosistema Python, Ciencia de Datos y Puente Simbólico:** Uso de **Python** como herramienta educativa y de investigación mediante **NumPy**, **SciPy**, **Pandas**, **Matplotlib** y **TensorFlow**, empleando **SymPy** como enlace de alto nivel entre la computación simbólica, la simulación física y las demostraciones matemáticas formales.
 * **Matemáticas Puras y Verificación Formal:** Formalización rigurosa de teoremas clásicos y modernos, álgebra abstracta, análisis y especificación verificada de sistemas concurrentes y protocolos críticos mediante **Lean 4** y **TLA+**.
 * **(Ciberfísica) Física Computacional y Sistemas de Bases de Datos:** Simulación Monte Carlo, cálculo simbólico masivo, modelado estocástico y persistencia estructurada de datos experimentales y telemetría mediante **MySQL**, **SQLite** y almacenamiento columnar de alto volumen.
-* * **Ciberfísica Médica:** Análisis de las relaciones de estructuras de datos experimentales, de sistemas de telemedicina y almacenamiento columnar de alto volumen.
+* **Ciberfísica Médica:** Análisis de las relaciones de estructuras de datos experimentales, de sistemas de telemedicina y almacenamiento columnar de alto volumen.
 
 ---
 
