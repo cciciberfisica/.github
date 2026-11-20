@@ -60,6 +60,10 @@ Si deseas respaldar la investigación independiente y el desarrollo de herramien
 <!-- Descomenta y reemplaza TU_ID_PAYPAL cuando tengas el botón activo:
 [![Donar con PayPal](https://img.shields.io/badge/Donar_con-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=TU_ID_PAYPAL)
 -->
+**Copiar llave Bre-B / Nequi (1 clic):**
+```text
+@NEQUIFER0979
+```
 [![Apoyar vía Nequi](https://img.shields.io/badge/Apoyar_vía-Nequi_%28Colombia%29-200020?style=for-the-badge)](https://clientes.nequi.com.co/recargas)
 
 > *Para consultas de asesoría, auditoría de modelos de IA, colaboraciones institucionales o confirmación de aportes vía Nequi, contáctanos a través del correo oficial publicado en el perfil de la organización.*
@@ -73,12 +77,4 @@ Si deseas apoyar la investigación abierta y el desarrollo de software científi
   <img src="./qr-nequi.png" alt="QR Nequi / Bre-B CCIC" width="210" />
   <p><sub>Escanea desde <strong>Nequi</strong> o cualquier entidad con <strong>Bre-B</strong></sub></p>
 </div>
-
-**Copiar llave Bre-B / Nequi (1 clic):**
-```text
-@NEQUIFER0979
-```
-
-* **Recarga web vía PSE:** [Portal oficial de recargas Nequi](https://clientes.nequi.com.co/recargas)
-* **Patrocinio internacional:** *Próximamente (PayPal / GitHub Sponsors)*
 
